@@ -1,7 +1,7 @@
 <h1 align="center">Ideathon Rfec 2026.2: <i>DAI</i> - Dados de Acessibilidade e Identificação</h1>
 
 <p align="center">
-  <img src="./img/DAI_logo.jpeg" width="400"/>
+  <img src="./img/DAI_logo.jpeg" width="400"/> <br>
   <img src="./img/DAI_equipe.jpeg" width="400"/>
 </p>
 
