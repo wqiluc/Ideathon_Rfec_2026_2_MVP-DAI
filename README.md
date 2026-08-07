@@ -45,6 +45,67 @@ O **DAI** é uma ficha médica figital, no cartão que a pessoa já carrega. Ela
 - **Cadastro**: criação da ficha médica com identificação, localização e contato de emergência.
 - **Leitura de QR**: o socorrista escaneia o código, visualiza os dados básicos e, ao verificar sua identidade profissional, desbloqueia o prontuário completo (medicações, alergias e observações).
 
+<h2 align="center">🖥️ Protótipo Navegável</h2>
+
+<p align="center">
+  <a href="https://sniff-cherry-93985591.figma.site" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Acessar_Protótipo-Figma%20Site-orange?style=for-the-badge&logo=figma&logoColor=orange"/>
+  </a>
+  <img src="https://img.shields.io/badge/Telas-7-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Acesso-Auditável-16A34A?style=for-the-badge&logo=shieldsdotio&logoColor=white"/>
+</p>
+
+Capturas de tela do protótipo funcional, do cadastro da ficha médica até o desbloqueio auditado do prontuário completo:
+
+<table align="center" width="780">
+  <tr><th align="center">🏠 Tela Inicial</th></tr>
+  <tr><td align="center"><b>Landing do DAI Saúde, apresentando as três camadas de acesso: ficha médica pessoal, acesso controlado e QR Code de emergência.</b></td></tr>
+  <tr><td align="center"><img src="./img/DAI_tela_home.jpeg" width="750" alt="Tela Inicial"/></td></tr>
+</table>
+
+<br>
+
+<table align="center" width="780">
+  <tr><th align="center">📝 Cadastro da Ficha Médica</th></tr>
+  <tr><td align="center"><b>Formulário em duas etapas: identificação (nome, data de nascimento, CPF, cartão SUS, bairro e cidade) e dados médicos (contato de emergência, tipo sanguíneo, condições de saúde, medicamentos, alergias e observações).</b></td></tr>
+  <tr><td><table width="100%"><tr>
+    <td align="center"><img src="./img/DAI_tela_cadastro_1.jpeg" width="370" alt="Cadastro — Identificação"/></td>
+    <td align="center"><img src="./img/DAI_tela_cadastro_2.jpeg" width="370" alt="Cadastro — Dados Médicos"/></td>
+  </tr></table></td></tr>
+</table>
+
+<br>
+
+<table align="center" width="780">
+  <tr><th align="center">👤 Minha Ficha</th></tr>
+  <tr><td align="center"><b>Visão completa do próprio paciente sobre seus dados, com QR Code pronto para gerar e compartilhar.</b></td></tr>
+  <tr><td align="center"><img src="./img/DAI_tela_minha_ficha.jpeg" width="750" alt="Minha Ficha"/></td></tr>
+</table>
+
+<br>
+
+<table align="center" width="780">
+  <tr><th align="center">🚑 Ficha do Paciente</th></tr>
+  <tr><td align="center"><b>Ao escanear o QR Code, o socorrista vê apenas os dados básicos — dados médicos sensíveis permanecem bloqueados até a verificação de identidade.</b></td></tr>
+  <tr><td align="center"><img src="./img/DAI_tela_ficha_paciente.jpeg" width="750" alt="Ficha do Paciente"/></td></tr>
+</table>
+
+<br>
+
+<table align="center" width="780">
+  <tr><th align="center">🔐 Verificação Profissional</th></tr>
+  <tr><td align="center"><b>O socorrista informa o CPF profissional para solicitar acesso auditável aos dados sensíveis do paciente.</b></td></tr>
+  <tr><td align="center"><img src="./img/DAI_tela_verificacao.jpeg" width="750" alt="Verificação Profissional"/></td></tr>
+</table>
+
+<br>
+
+<table align="center" width="780">
+  <tr><th align="center">✅ Ficha Completa</th></tr>
+  <tr><td align="center"><b>Identidade verificada: condições de saúde, medicamentos, alergias e observações são liberados por completo, com acesso registrado e auditável.</b></td></tr>
+  <tr><td align="center"><img src="./img/DAI_tela_ficha_completa.jpeg" width="750" alt="Ficha Completa"/></td></tr>
+</table>
+
 ## 📈 Impacto Esperado
 
 - ⚡ **Socorro mais rápido**
