@@ -5,7 +5,7 @@
   <img src="./img/DAI_equipe.jpeg" width="400"/>
 </p>
 
-<p align="center"><i>Equipe Titãs Tech no Ideathon RFEC 2026.2 — <b>01/08/2026</b></i></p>
+<p align="center"><i><b>Equipe Titãs Tech no Ideathon RFEC 2026.2</b> — <b>01/08/2026</b></i></p>
 
 <h2 align="center">📌 Sobre o Projeto</h2>
 
@@ -65,17 +65,17 @@ O **DAI** é uma ficha médica figital, no cartão que a pessoa já carrega. Ela
 
 <h2 align="center">👤👨‍🎓 Integrantes do Projeto: </h2>
 <ul>
-<li><b>Lucas Paguetti Pereira (Líder 👑)</b> <a href="https://www.linkedin.com/in/lucas-paguetti-pereira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/wqiluc" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="16"/></a></li>
-<li>Juliana Freire <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="16"/></a></li>
+<li><b>Juliana Freire (Lider 👑)</b><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="16"/></a></li>
 <li>Alany Siqueira <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="16"/></a></li>
 <li>Larissa Almeida <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="16"/></a></li>
+<li>Lucas Paguetti Pereira <a href="https://www.linkedin.com/in/lucas-paguetti-pereira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="https://github.com/wqiluc" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="16"/></a></li>
 <li>Rodrigo Vasco <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="16"/></a></li>
 </ul>
 
 <h2 align="center"> ⛏️💻 Tecnologias Utilizadas: </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Claude-020617?style=flat-square&logo=claude&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/-Figma-020617?style=flat-square&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/-Google%20Slides-020617?style=flat-square&logo=googleslides&logoColor=FBBC04"/>
-  <img src="https://img.shields.io/badge/-📋%20Gestão%20de%20Projetos-020617?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Claude-111827?style=flat-square&logo=claude&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/-Google%20Slides-111827?style=flat-square&logo=googleslides&logoColor=FBBC04"/>
+  <img src="https://img.shields.io/badge/-📋%20Gestão%20de%20Projetos-111827?style=flat-square"/>
 </p>
