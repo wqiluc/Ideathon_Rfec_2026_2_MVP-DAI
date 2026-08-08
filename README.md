@@ -1,4 +1,5 @@
-<h1 align="center">Ideathon Rfec 2026.2: <i>DAI</i> - Dados de Acessibilidade e Identificação</h1>
+<h1 align="center">Ideathon Rfec 2026.2: <i>DAI</i> - Dados de Acessibilidade e Identificação <br>
+<img src="./img/DAI_header.jpeg" alt="DAI header" width="460"></h1>
 
 <p align="center">
   <img src="./img/DAI_logo.jpeg" width="400"/> <br>
@@ -7,7 +8,7 @@
 
 <p align="center"><i><b>Equipe Titãs Tech no Ideathon RFEC 2026.2</b> — <b>01/08/2026</b></i></p>
 
-<h2 align="center">📌 Sobre o Projeto</h2>
+<h2 align="center">📌 Sobre o Projeto <br><img src="https://img.shields.io/badge/Ideathon-RFEC_2026.2-111827?style=flat-square"/></h2>
 
 O **Ideathon RFEC 2026.2** propôs o desafio: *"Como a Inteligência Artificial pode promover acessibilidade no Mundo Digital?"*. A equipe **Titãs Tech** respondeu com o **DAI — Dados de Acessibilidade e Identificação**, uma iniciativa **figital** (físico + digital) que transforma informações médicas essenciais em um **QR Code inteligente**, permitindo atendimentos de emergência mais rápidos, seguros e acessíveis para toda a população — com foco especial em pessoas com deficiência visual.
 
@@ -36,7 +37,7 @@ O **DAI** é uma ficha médica figital, no cartão que a pessoa já carrega. Ela
 - **Acesso controlado** — profissionais verificam identidade (CPF) antes de visualizar dados sensíveis, com acesso registrado e auditável
 - **QR Code de emergência** — ficha básica compartilhável sem necessidade de senha
 
-## 📱 Fluxo de Telas
+<h2 align="center">📱 Fluxo de Telas <br><img src="https://img.shields.io/badge/Etapas-2-111827?style=flat-square"/></h2>
 
 <p align="center">
   <img src="./img/Dai_Telas.jpeg" width="700"/>
@@ -45,14 +46,14 @@ O **DAI** é uma ficha médica figital, no cartão que a pessoa já carrega. Ela
 - **Cadastro**: criação da ficha médica com identificação, localização e contato de emergência.
 - **Leitura de QR**: o socorrista escaneia o código, visualiza os dados básicos e, ao verificar sua identidade profissional, desbloqueia o prontuário completo (medicações, alergias e observações).
 
-<h2 align="center">🖥️ Protótipo Navegável</h2>
+<h2 align="center">🖥️ Protótipo Navegável <br></h2>
 
 <p align="center">
   <a href="https://sniff-cherry-93985591.figma.site" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Acessar_Protótipo-Figma%20Site-orange?style=for-the-badge&logo=figma&logoColor=orange"/>
   </a>
   <img src="https://img.shields.io/badge/Telas-7-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Acesso-Auditável-16A34A?style=for-the-badge&logo=shieldsdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Acesso-Auditável-blue?style=for-the-badge&logo=shieldsdotio&logoColor=white"/>
 </p>
 
 Capturas de tela do protótipo funcional, do cadastro da ficha médica até o desbloqueio auditado do prontuário completo:
